@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Shreya !!</h1>
+<h3 align="center">Electronics Engineering Student @ IOE Pulchowk Campus</h3>
 
-<!--
-**shreyah-521/shreyah-521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Just getting started!!✨✨
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:shreya20khanal@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/shreya-k-2b9037334/" target="_blank">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages & Tools
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="38" height="38"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="38" height="38"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="38" height="38"/> </a> 
+</p>
+
+### Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyah-521&show_icons=true&locale=en" alt="GitHub Stats" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyah-521&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="145" />
+</p>
