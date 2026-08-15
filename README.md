@@ -1,12 +1,8 @@
-<h1 align="center">Hi, I'm Shreya 👋</h1>
-<h3 align="center">⚡ Electronics Engineering Student @ IOE Pulchowk Campus ⚡</h3>
+<h1 align="center">Hi, I'm Shreya !!</h1>
+<h3 align="center"> Electronics Engineering Student @ IOE Pulchowk Campus</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyah-521&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  Just getting started! Exploring hardware, low-level programming, and electronics.
+  Just getting started! ✨✨
 </p>
 
 <p align="center">
@@ -29,8 +25,8 @@
 
 ### 📌 Current Focus & Learning
 - 🔭 **Studying:** Electronics Engineering @ Pulchowk Campus (IOE)
-- ⚙️ **Exploring:** C, C++, and basic hardware/circuits
-- 🎯 **Goals:** Building solid coding fundamentals & completing lab projects
+- ⚙️ **Exploring:** C, C++, Python and basic hardware/circuits
+- 🎯 **Goals:** Building solid coding fundamentals 
 
 ---
 
